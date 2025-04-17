@@ -2,6 +2,8 @@
 
 Este proyecto simula una plataforma para gestionar canciones y podcasts, permitiendo mostrar su información y agregar elementos a una lista de favoritos. El proyecto está desarrollado en Java y utiliza el patrón de diseño **Builder** para la creación de objetos complejos.
 
+![Diagrama de Clases](https://github.com/Juan-Matias/radio-alura/blob/9d0948c4a88522ea7b6c44baaab10f6807117c94/diagramaDeClases.png)
+
 ## Características
 
 - **Canción**: Permite almacenar información sobre canciones, como el título, cantante, álbum y género.
